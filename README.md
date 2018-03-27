@@ -16,8 +16,12 @@ A Web GUI Automation Test Demo on a Unibet Casino Game: by using [Selenium](http
   </dependency>
   ```
   * Usage
-    * [Page Object Pattern](https://github.com/SeleniumHQ/selenium/wiki/PageObjects) and [Page Factory](https://github.com/SeleniumHQ/selenium/wiki/PageFactory) Check example in the file: [MainPage.java](src/main/java/com/irvingfish/webautotest/simpletest/pages/MainPage.java), [CasinoPage.java](src/main/java/com/irvingfish/webautotest/simpletest/pages/CasinoPage.java) and [KingKongFuryPage.java](src/main/java/com/irvingfish/webautotest/simpletest/pages/games/KingKongFuryPage.java)
-    * [Xpath Syntax](https://www.guru99.com/xpath-selenium.html) Check example in the file: [CasinoPage.java](src/main/java/com/irvingfish/webautotest/simpletest/pages/CasinoPage.java) (Tip: You can get help by using Selenium IDE to get a correct Xpath easily)
+    * [Page Object Pattern](https://github.com/SeleniumHQ/selenium/wiki/PageObjects) and [Page Factory](https://github.com/SeleniumHQ/selenium/wiki/PageFactory) 
+     
+     Check example in the file: [MainPage.java](src/main/java/com/irvingfish/webautotest/simpletest/pages/MainPage.java), [CasinoPage.java](src/main/java/com/irvingfish/webautotest/simpletest/pages/CasinoPage.java) and [KingKongFuryPage.java](src/main/java/com/irvingfish/webautotest/simpletest/pages/games/KingKongFuryPage.java)
+    * [Xpath Syntax](https://www.guru99.com/xpath-selenium.html) 
+    
+     Check example in the file: [CasinoPage.java](src/main/java/com/irvingfish/webautotest/simpletest/pages/CasinoPage.java) (Tip: You can get help by using Selenium IDE to get a correct Xpath easily)
     * [Webdriver for Selinium](https://www.seleniumhq.org/projects/webdriver/)
 * [SikuliX](http://sikulix.com/)
   * Maven dependency setting
