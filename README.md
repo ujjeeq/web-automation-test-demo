@@ -28,6 +28,7 @@ A Web GUI Automation Test Demo on a Unibet Casino Game: by using [Selenium](http
   </dependency>
   ```
    * Usage : Check example in the file: [KingKongFuryPage.java](src/main/java/com/irvingfish/webautotest/simpletest/pages/games/KingKongFuryPage.java)
+   * Deviation : All SikuliX image might depend on the desktop envrionment you running the code, you might need to replace all capture images based on your envrionment
  
  ## License
 Apache 2.0, see [LICENSE](LICENSE)
